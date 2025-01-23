@@ -23,3 +23,40 @@
     border-radius: 8px;
 }
 
+.nav-bar-div {
+    background-color: #B5B7BB;
+    display: flex;
+    justify-content: center;
+    font-family: "Papyrus";
+    align-items: end;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.tabs {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+    color: #161118;
+}
+
+#home-disco {
+    width: 50px;
+}
+
+#nav-bar-border {
+    background-color: #B5B7BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:10px;
+    border-radius: 0px 0px 8px 8px;
+}
+
+.border-img {
+    width: 250px;
+}
