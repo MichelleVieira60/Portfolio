@@ -1,4 +1,4 @@
-#background {
+.background {
     background-color:	#161118;
 }
 
@@ -38,8 +38,9 @@
 .tabs {
     margin-left: 30px;
     margin-right: 30px;
-    font-size: 15px;
+    font-size: 17px;
     color: #161118;
+    text-decoration: none;
 }
 
 #home-disco {
