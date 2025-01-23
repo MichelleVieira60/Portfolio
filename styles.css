@@ -1,5 +1,5 @@
 #background {
-    background-color:	#040622;
+    background-color:	#161118;
 }
 
 #disco {
@@ -11,4 +11,15 @@
 
 #click-me {
     color: white;
+}
+
+#portfolio-btn {
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    font-size: 20px;
+    font-family: "Papyrus";
+    background-color: #D3D3D3;
+    color: #161118;
+    border-radius: 8px;
 }
